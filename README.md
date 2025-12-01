@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabha2005" alt="prabha2005" /></a> </p>
 
-- 🔭 I’m currently working on **Vocamee - Empowering every teen to discover their future with clarity, confidence, and curiosity.**
-
 - 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://vlpportfolio.ccbp.tech/](https://vlpportfolio.ccbp.tech/)
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **lakshmiprabhavl2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DB010ubEo6HA-LsvVYHVdOGIZAKfyE3x/view?usp=drive_link](https://drive.google.com/file/d/1DB010ubEo6HA-LsvVYHVdOGIZAKfyE3x/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1DB010ubEo6HA-LsvVYHVdOGIZAKfyE3x/view?usp=drive_link](https://drive.google.com/file/d/1Otshcz7f4nTghl2JggQRglMQdlFvgVIP/view?usp=sharing)]([https://drive.google.com/file/d/1DB010ubEo6HA-LsvVYHVdOGIZAKfyE3x/view?usp=drive_link](https://drive.google.com/file/d/1Otshcz7f4nTghl2JggQRglMQdlFvgVIP/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

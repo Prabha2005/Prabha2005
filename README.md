@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vlpportfolio.ccbp.tech/](https://vlpportfolio.ccbp.tech/)
 
-- 💬 Ask me about **Frontend, Python**
+- 💬 Ask me about **Frontend, Python, Backend**
 
 - 📫 How to reach me **lakshmiprabhavl2005@gmail.com**
 

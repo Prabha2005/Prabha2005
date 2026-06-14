@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://vlpportfolio.ccbp.tech/](https://vlpportfolio.ccbp.tech/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vlpportfolio.ccbp.tech/)
 
 - 💬 Ask me about **Frontend, Python, Backend**
 

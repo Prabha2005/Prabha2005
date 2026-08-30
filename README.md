@@ -1,32 +1,156 @@
-<h1 align="center">Hi 👋, I'm Lakshmi Prabha V</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm V. Lakshmi Prabha</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabha2005&label=Profile%20views&color=0e75b6&style=flat" alt="prabha2005" /> </p>
+<h3 align="center">
+Software Developer | Full-Stack | Python | AI/ML
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabha2005" alt="prabha2005" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://vlpportfolio.ccbp.tech/)
-
-- 💬 Ask me about **Frontend, Python, Backend**
-
-- 📫 How to reach me **lakshmiprabhavl2005@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hMZU_2k0338vj-vDziryE80bRDniaGyQ/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lakshmi-prabha-v-a84500258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshmi-prabha-v-a84500258" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/calm_truth_68" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="calm_truth_68" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lakshmiprabhavl1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshmiprabhavl1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakshmiprabha26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshmiprabha26" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lakshmiprazpaq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lakshmiprazpaq" height="30" width="40" /></a>
+<p align="center">
+Building full-stack applications, intelligent systems, and data-driven solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://vlpportfolio.ccbp.tech/">🌐 Portfolio</a> •
+  <a href="https://drive.google.com/file/d/1espjdCrtqx0_RAjjCe1OYT1yCaVbnTGi/view?usp=sharing">📄 Resume</a> •
+  <a href="https://linkedin.com/in/lakshmi-prabha-v-a84500258">💼 LinkedIn</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabha2005&show_icons=true&locale=en&layout=compact" alt="prabha2005" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prabha2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabha2005&show_icons=true&locale=en" alt="prabha2005" /></p>
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.E. Electronics and Communication Engineering — 2026
+- 💻 Interested in **Software Development, Full-Stack Development, AI/ML & Data Science**
+- 🚀 Building applications using **React, Next.js, FastAPI and Python**
+- 🤖 Exploring **Machine Learning, LLM Applications and RAG**
+- 🔐 Experienced with **REST APIs, JWT Authentication and API Integration**
+- 📊 Working with **Pandas, NumPy, Scikit-learn, XGBoost and Power BI**
+- 🌱 Currently improving my **DSA, System Design and AI Engineering skills**
+- 💬 Ask me about **Python, React, FastAPI, REST APIs and Machine Learning**
+- 📫 Reach me at **lakshmiprabhavl2005@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+### 💳 Fraud Detection System
+Real-time machine learning system for detecting suspicious transactions.
+
+**Tech:** Python • FastAPI • XGBoost • Pandas • SHAP • Streamlit  
+🔗 [View Project](https://github.com/Prabha2005/Fraud-Detection-Dashboard)
+
+---
+
+### 📝 ReflectFlow AI Journal
+AI-powered journaling application that analyzes journal entries and provides
+emotion-aware insights.
+
+**Tech:** JavaScript • AI Integration • REST APIs  
+🔗 [View Project](https://github.com/Prabha2005/ReflectFlow-AI-Journal)
+
+---
+
+### 🧠 AI Therapy Assistant
+Full-stack AI application featuring secure authentication, journaling,
+self-assessments and an emotion-aware conversational assistant.
+
+**Tech:** Next.js • React • FastAPI • Python • JWT • SQLAlchemy • Hugging Face  
+🔗 [View Project](https://github.com/Prabha2005/AI-based-Therapy)
+
+---
+
+### 🏆 Sports Quiz Agent
+RAG-powered application that retrieves sports information and generates
+context-aware quizzes using AI.
+
+**Tech:** Python • Streamlit • ChromaDB • Gemini • RAG  
+🔗 [View Project](https://github.com/Prabha2005/Sports-Quiz-Agent)
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,php,mysql,sqlite" />
+</p>
+
+**Python • Java • JavaScript (ES6+) • PHP • SQL • MySQL • SQLite**
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind" />
+</p>
+
+**React.js • Next.js • HTML5 • CSS3 • Bootstrap • Tailwind CSS**
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
+
+**FastAPI • Flask • REST APIs • API Integration • JWT Authentication • JSON**
+
+### Data Science & AI
+
+**Pandas • NumPy • Scikit-learn • XGBoost • Machine Learning • LLM Applications • RAG • Prompt Engineering**
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
+</p>
+
+**Git • GitHub • Postman • VS Code • Vercel • Render • Power BI • Excel**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/lakshmi-prabha-v-a84500258">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://www.leetcode.com/lakshmiprabha26">
+<img src="https://cdn.simpleicons.org/leetcode" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/lakshmiprabhavl1">
+<img src="https://cdn.simpleicons.org/hackerrank" height="40"/>
+</a>
+
+<a href="https://www.codechef.com/users/calm_truth_68">
+<img src="https://cdn.simpleicons.org/codechef" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prabha2005&show_icons=true&locale=en" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabha2005&layout=compact" />
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabha2005" />
+</p>
+
+---
+
+<p align="center">
+<i>Always learning. Always building. 🚀</i>
+</p>

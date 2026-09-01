@@ -135,22 +135,6 @@ context-aware quizzes using AI.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prabha2005&show_icons=true&locale=en" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabha2005&layout=compact" />
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prabha2005" />
-</p>
-
----
-
 <p align="center">
 <i>Always learning. Always building. 🚀</i>
 </p>
